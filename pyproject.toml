@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mainupdater"
-version = "0.0.1"
+version = "0.0.5"
 description = "Простое обновление файлов по ссылке"
 authors = ["MainPlay TG <xbox.roman6666666666@gmail.com>"]
 readme = "README.md"
